@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: April 30, 2024 9:58 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.9
+WORDPRESS:	6.5.2
+PHP INFO:	8.1.23 | SAPI: cgi-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 40MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:61 | filtered:0 | create:61
+FILTERED: []
+SQL CREATED: backup_laviedesplantes_6531eb36c7e5a64c2073_20240430095813_database.sql
+SQL FILE SIZE: 3.92MB (4108150)
+SQL FILE TIME: 2024-04-30 09:58:42
+SQL RUNTIME: 1.12 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/saume/Local Sites/la-vie-des-plantes/app/public
+ARCHIVE FILE: backup_laviedesplantes_6531eb36c7e5a64c2073_20240430095813_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	286.28MB
+STATS:	Dirs 2,581 | Files 15,615
+SQL ADDED: backup_laviedesplantes_6531eb36c7e5a64c2073_20240430095813_database.sql
+ZipArchive Object
+(
+    [lastId] => 18195
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 18196
+    [filename] => C:\Users\saume\Local Sites\la-vie-des-plantes\app\public\wp-content\backups-dup-lite\tmp\backup_laviedesplantes_6531eb36c7e5a64c2073_20240430095813_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 18195
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 100.75MB
+ARCHIVE RUNTIME: 51.53 sec.
+MEMORY STACK: 48MB
+building installer
+TEST DE COHÉRENCE D’ARCHIVE : RÉUSSITE
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 3.92MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 102.83MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 18,196
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 18,195
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 57.99 sec.
+PEAK PHP MEMORY USED: 52MB
+DONE PROCESSING => backup_laviedesplantes April 30, 2024 9:59 am
+
